@@ -19,7 +19,7 @@ You will:
 
 ## What You Bring
 
-- 6+ years working close to the hardware in large-scale HPC, AI, or cloud fleets, at the level of silicon, firmware, and the network fabric
+- 15+ years working close to the hardware in large-scale HPC, AI, or cloud fleets, at the level of silicon, firmware, and the network fabric
 - Hands-on experience with device and fabric telemetry (GNMI, Redfish and BMC, NVIDIA DCGM, link-level network signals) used to diagnose or predict hardware faults
 - Experience building a prediction, anomaly detection, or reliability analysis system on real operational data, and a clear sense of where those systems break
 - Strong grounding in fault tolerance and RAS at the hardware and fabric layer
